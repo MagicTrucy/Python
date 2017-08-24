@@ -1,2 +1,2 @@
 # Python
-Algorithmes en Python
+Algorithmes en Python commentés
